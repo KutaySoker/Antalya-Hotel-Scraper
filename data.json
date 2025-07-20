@@ -1,0 +1,954 @@
+{
+    "data": {
+        "getAccommodationDetails": {
+            "accommodationDetails": [
+                {
+                    "typeObject": {
+                        "nsid": {
+                            "id": 2,
+                            "ns": 101,
+                            "__typename": "Nsid"
+                        },
+                        "__typename": "TranslatedConcept"
+                    },
+                    "translatedName": {
+                        "value": "PEARLY HOTEL",
+                        "__typename": "Translation"
+                    },
+                    "coordinates": {
+                        "latitude": 36.87080001831055,
+                        "longitude": 30.650880813598633,
+                        "__typename": "Coordinates"
+                    },
+                    "accommodationCategory": "HOTEL",
+                    "amenities": [
+                        {
+                            "group": {
+                                "nsid": {
+                                    "id": 2,
+                                    "ns": 311,
+                                    "__typename": "Nsid"
+                                },
+                                "translatedName": {
+                                    "value": "Property amenities",
+                                    "__typename": "Translation"
+                                },
+                                "__typename": "TranslatedConcept"
+                            },
+                            "features": [
+                                {
+                                    "nsid": {
+                                        "id": 14,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Café",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 19,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Express check-in",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 20,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Elevator",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 23,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Gym",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 25,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Parking",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 28,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Bell service",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 30,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Pets allowed",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 31,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Hotel bar",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 37,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Hotel safe",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 41,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Conference rooms",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 44,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Non-smoking rooms",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 47,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Restaurant",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 48,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "24-hour reception",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 55,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Beach",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 59,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Laundry service",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 60,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Spa",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 62,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "WiFi in public areas",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 63,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Room service",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 64,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "24-hour room service",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 78,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Fax/Modem access",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 249,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Concierge",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 396,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Airport shuttle",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 437,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Free WiFi in public areas",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 672,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Daily housekeeping",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 674,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Housekeeping",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 732,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Free WiFi",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 734,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Breakfast",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 828,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Hand sanitizer provided",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 834,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Safe distance",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 836,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Response protocol",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 846,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "New safety protocols",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 848,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Cashless payment",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                }
+                            ],
+                            "__typename": "AmenitiesGroup"
+                        },
+                        {
+                            "group": {
+                                "nsid": {
+                                    "id": 27,
+                                    "ns": 311,
+                                    "__typename": "Nsid"
+                                },
+                                "translatedName": {
+                                    "value": "Wellness / Spa",
+                                    "__typename": "Translation"
+                                },
+                                "__typename": "TranslatedConcept"
+                            },
+                            "features": [
+                                {
+                                    "nsid": {
+                                        "id": 15,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Steam room",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 42,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Massage",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 51,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Sauna",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 426,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Hammam",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                }
+                            ],
+                            "__typename": "AmenitiesGroup"
+                        },
+                        {
+                            "group": {
+                                "nsid": {
+                                    "id": 28,
+                                    "ns": 311,
+                                    "__typename": "Nsid"
+                                },
+                                "translatedName": {
+                                    "value": "Accessibility",
+                                    "__typename": "Translation"
+                                },
+                                "__typename": "TranslatedConcept"
+                            },
+                            "features": [
+                                {
+                                    "nsid": {
+                                        "id": 49,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Wheelchair accessible",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                }
+                            ],
+                            "__typename": "AmenitiesGroup"
+                        },
+                        {
+                            "group": {
+                                "nsid": {
+                                    "id": 3,
+                                    "ns": 311,
+                                    "__typename": "Nsid"
+                                },
+                                "translatedName": {
+                                    "value": "Room amenities",
+                                    "__typename": "Translation"
+                                },
+                                "__typename": "TranslatedConcept"
+                            },
+                            "features": [
+                                {
+                                    "nsid": {
+                                        "id": 75,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Shower",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 80,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Television",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 82,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Hairdryer",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 83,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Central heating",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 85,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Electric kettle",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 86,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Air conditioning",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 89,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Minibar",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 92,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Satellite TV",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 95,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Telephone",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 97,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Safe",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 101,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Cable TV",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 254,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "WiFi",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 438,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Free WiFi (rooms)",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 466,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Flatscreen TV",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                }
+                            ],
+                            "__typename": "AmenitiesGroup"
+                        },
+                        {
+                            "group": {
+                                "nsid": {
+                                    "id": 6,
+                                    "ns": 311,
+                                    "__typename": "Nsid"
+                                },
+                                "translatedName": {
+                                    "value": "Sports facilities",
+                                    "__typename": "Translation"
+                                },
+                                "__typename": "TranslatedConcept"
+                            },
+                            "features": [
+                                {
+                                    "nsid": {
+                                        "id": 120,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Fitness",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                }
+                            ],
+                            "__typename": "AmenitiesGroup"
+                        },
+                        {
+                            "group": {
+                                "nsid": {
+                                    "id": 25,
+                                    "ns": 311,
+                                    "__typename": "Nsid"
+                                },
+                                "translatedName": {
+                                    "value": "Food and beverage",
+                                    "__typename": "Translation"
+                                },
+                                "__typename": "TranslatedConcept"
+                            },
+                            "features": [
+                                {
+                                    "nsid": {
+                                        "id": 357,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Halal food",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                },
+                                {
+                                    "nsid": {
+                                        "id": 684,
+                                        "ns": 300,
+                                        "__typename": "Nsid"
+                                    },
+                                    "translatedName": {
+                                        "value": "Vegetarian food",
+                                        "__typename": "Translation"
+                                    },
+                                    "__typename": "TranslatedConcept"
+                                }
+                            ],
+                            "__typename": "AmenitiesGroup"
+                        }
+                    ],
+                    "topAmenities": [
+                        {
+                            "isFree": true,
+                            "isAvailable": true,
+                            "name": {
+                                "value": "WiFi in lobby",
+                                "__typename": "Translation"
+                            },
+                            "nsid": {
+                                "id": 62,
+                                "ns": 300,
+                                "__typename": "Nsid"
+                            },
+                            "__typename": "Amenity"
+                        },
+                        {
+                            "isFree": true,
+                            "isAvailable": true,
+                            "name": {
+                                "value": "WiFi in rooms",
+                                "__typename": "Translation"
+                            },
+                            "nsid": {
+                                "id": 254,
+                                "ns": 300,
+                                "__typename": "Nsid"
+                            },
+                            "__typename": "Amenity"
+                        },
+                        {
+                            "isFree": false,
+                            "isAvailable": false,
+                            "name": {
+                                "value": "Pool",
+                                "__typename": "Translation"
+                            },
+                            "nsid": {
+                                "id": 35,
+                                "ns": 300,
+                                "__typename": "Nsid"
+                            },
+                            "__typename": "Amenity"
+                        },
+                        {
+                            "isFree": false,
+                            "isAvailable": true,
+                            "name": {
+                                "value": "Spa",
+                                "__typename": "Translation"
+                            },
+                            "nsid": {
+                                "id": 60,
+                                "ns": 300,
+                                "__typename": "Nsid"
+                            },
+                            "__typename": "Amenity"
+                        },
+                        {
+                            "isFree": false,
+                            "isAvailable": true,
+                            "name": {
+                                "value": "Parking",
+                                "__typename": "Translation"
+                            },
+                            "nsid": {
+                                "id": 25,
+                                "ns": 300,
+                                "__typename": "Nsid"
+                            },
+                            "__typename": "Amenity"
+                        },
+                        {
+                            "isFree": false,
+                            "isAvailable": true,
+                            "name": {
+                                "value": "Pets ",
+                                "__typename": "Translation"
+                            },
+                            "nsid": {
+                                "id": 30,
+                                "ns": 300,
+                                "__typename": "Nsid"
+                            },
+                            "__typename": "Amenity"
+                        },
+                        {
+                            "isFree": false,
+                            "isAvailable": true,
+                            "name": {
+                                "value": "A/C",
+                                "__typename": "Translation"
+                            },
+                            "nsid": {
+                                "id": 86,
+                                "ns": 300,
+                                "__typename": "Nsid"
+                            },
+                            "__typename": "Amenity"
+                        },
+                        {
+                            "isFree": false,
+                            "isAvailable": true,
+                            "name": {
+                                "value": "Restaurant",
+                                "__typename": "Translation"
+                            },
+                            "nsid": {
+                                "id": 47,
+                                "ns": 300,
+                                "__typename": "Nsid"
+                            },
+                            "__typename": "Amenity"
+                        },
+                        {
+                            "isFree": false,
+                            "isAvailable": true,
+                            "name": {
+                                "value": "Hotel bar",
+                                "__typename": "Translation"
+                            },
+                            "nsid": {
+                                "id": 31,
+                                "ns": 300,
+                                "__typename": "Nsid"
+                            },
+                            "__typename": "Amenity"
+                        },
+                        {
+                            "isFree": false,
+                            "isAvailable": true,
+                            "name": {
+                                "value": "Gym",
+                                "__typename": "Translation"
+                            },
+                            "nsid": {
+                                "id": 23,
+                                "ns": 300,
+                                "__typename": "Nsid"
+                            },
+                            "__typename": "Amenity"
+                        }
+                    ],
+                    "contactDetails": {
+                        "postalCode": "07700",
+                        "streetAddress": "Kuskavagi Mah. Akdeniz Bulvari No:104 Konyaaltı",
+                        "phone": "+90 539 516 07 60",
+                        "email": "info@pearlyhotel.com",
+                        "website": "https://www.trivago.com.tr/forward/en-US?forwarderA=ywaUDzkzO3YkYNrgCg7jXTRebyORfk0tehgINzG7SRJRAYkbUd1tzdBMT0HQsbZV28WOG1IMbBpfNS%2BmULl0AwZeSp2MymR7daK4l2%2BBG6q55Cb%2FZLEW6jyAzUA79r2ciNGtoNxCBtcZINO%2F33ojBK5HBmo1Ma%2BSvual5p9q3u93yq5MQjfISXmtVp4XSCqqGWfSSA%2F3CiomPgmPYeglSA7eUz7Kx%2Ftv64TVqXKJ7CiJZhq2uibT0985%2BcyWJu%2Fd5e5rQPANrLdM9wrsEn4FcIN%2BVYN6djnZJVAjngNaMS55y1sgmAuY%2Fb9Kx9G30gd1Tz1TxNXpzgTpD5X2Wcr%2FwXLFdgG%2FhH37",
+                        "__typename": "ContactDetails"
+                    },
+                    "locality": {
+                        "translatedName": {
+                            "value": "Antalya",
+                            "__typename": "Translation"
+                        },
+                        "locationLabel": "Antalya, Türkiye",
+                        "__typename": "Destination"
+                    },
+                    "country": {
+                        "translatedName": {
+                            "value": "Türkiye",
+                            "__typename": "Translation"
+                        },
+                        "locationLabel": "Europe",
+                        "__typename": "Destination"
+                    },
+                    "unitDetails": null,
+                    "propertyId": null,
+                    "businessStudio": {
+                        "subscriptionStatus": "INACTIVE",
+                        "__typename": "BusinessStudioAccommodation"
+                    },
+                    "__typename": "AccommodationDetails"
+                }
+            ],
+            "__typename": "AccommodationDetailsResponse"
+        }
+    }
+}
